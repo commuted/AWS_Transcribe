@@ -29,7 +29,7 @@ Create bucket:
 
 Copy voice recording to bucket:
 
-`aws s3 cp audio-file.mp4 s3://my-bucke`t
+`aws s3 cp audio-file.mp4 s3://my-bucke/audio-file.mp4`
 
 Transcribe command:
 
