@@ -4,7 +4,7 @@ import concurrent.futures
 import threading 
 import sys
 
-AMAZON = "https:://s3.us-west-2.amazonaws.com"
+AMAZON = "https://s3.us-west-2.amazonaws.com"
 
 # Running this script may result in charges for AWS Transcription. 
 #
